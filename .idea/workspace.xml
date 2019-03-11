@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4ecb808-6d5e-48da-8339-ff2d1b9827a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/platform-services/eureka-server/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/platform-services/eureka-server/build.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="c4ecb808-6d5e-48da-8339-ff2d1b9827a8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/applications/.gradle/" />
@@ -341,7 +339,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28987855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
