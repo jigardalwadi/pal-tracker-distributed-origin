@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4ecb808-6d5e-48da-8339-ff2d1b9827a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/applications/backlog-server/src/main/java/io/pivotal/pal/tracker/backlog/SecurityConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/registration-server/src/main/java/io/pivotal/pal/tracker/registration/SecurityConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/timesheets-server/src/main/java/io/pivotal/pal/tracker/timesheets/SecurityConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/annotation-processors.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/annotation-processors.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/build/libs/applications.jar" beforeDir="false" afterPath="$PROJECT_DIR$/applications/build/libs/applications.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/registration-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/applications/registration-server/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/allocations/build/classes/java/main/io/pivotal/pal/tracker/allocations/ProjectClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/components/allocations/build/classes/java/main/io/pivotal/pal/tracker/allocations/ProjectClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/allocations/build/libs/allocations.jar" beforeDir="false" afterPath="$PROJECT_DIR$/components/allocations/build/libs/allocations.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/build/libs/components.jar" beforeDir="false" afterPath="$PROJECT_DIR$/components/build/libs/components.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/rest-support/build/libs/rest-support.jar" beforeDir="false" afterPath="$PROJECT_DIR$/components/rest-support/build/libs/rest-support.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/test-support/build/libs/test-support.jar" beforeDir="false" afterPath="$PROJECT_DIR$/components/test-support/build/libs/test-support.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/databases/build/libs/databases.jar" beforeDir="false" afterPath="$PROJECT_DIR$/databases/build/libs/databases.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-test/build/libs/integration-test.jar" beforeDir="false" afterPath="$PROJECT_DIR$/integration-test/build/libs/integration-test.jar" afterDir="false" />
-    </list>
+    <list default="true" id="c4ecb808-6d5e-48da-8339-ff2d1b9827a8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/applications/.gradle/" />
@@ -551,7 +520,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552338057534" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552338254361" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
