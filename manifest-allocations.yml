@@ -5,7 +5,7 @@ applications:
   - route: allocations-pal-jigar-khaled.apps.pcf.paltraining.perficient.com
   memory: 1G
   instances: 1
-  env:
-    REGISTRATION_SERVER_ENDPOINT: https://registration-pal-jigar-khaled.apps.pcf.paltraining.perficient.com
   services:
   - tracker-allocations-database
+  - tracker-service-registry
+
