@@ -27,25 +27,21 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/applications/allocations-server/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/applications/allocations-server/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/allocations-server/build/libs/allocations-server.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/allocations-server/build/libs/allocations-server.jar" beforeDir="false" afterPath="$PROJECT_DIR$/applications/allocations-server/build/libs/allocations-server.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/applications/allocations-server/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/applications/allocations-server/build/resources/main/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/allocations-server/build/tmp/bootJar/MANIFEST.MF" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/applications/allocations-server/src/main/java/io/pivotal/pal/tracker/allocations/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/applications/allocations-server/src/main/java/io/pivotal/pal/tracker/allocations/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/applications/allocations-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/applications/allocations-server/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/applications/allocations-server/src/test/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/applications/allocations-server/src/test/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/backlog-server/build/libs/backlog-server.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/backlog-server/build/libs/backlog-server.jar" beforeDir="false" afterPath="$PROJECT_DIR$/applications/backlog-server/build/libs/backlog-server.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/applications/backlog-server/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/applications/backlog-server/build/resources/main/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/backlog-server/build/tmp/bootJar/MANIFEST.MF" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/applications/backlog-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/applications/backlog-server/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/applications/build/libs/applications.jar" beforeDir="false" afterPath="$PROJECT_DIR$/applications/build/libs/applications.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/registration-server/build/libs/registration-server.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/registration-server/build/libs/registration-server.jar" beforeDir="false" afterPath="$PROJECT_DIR$/applications/registration-server/build/libs/registration-server.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/applications/registration-server/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/applications/registration-server/build/resources/main/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/registration-server/build/tmp/bootJar/MANIFEST.MF" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/applications/registration-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/applications/registration-server/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/applications/server.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/applications/server.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/timesheets-server/build/libs/timesheets-server.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/applications/timesheets-server/build/libs/timesheets-server.jar" beforeDir="false" afterPath="$PROJECT_DIR$/applications/timesheets-server/build/libs/timesheets-server.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/applications/timesheets-server/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/applications/timesheets-server/build/resources/main/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/timesheets-server/build/tmp/bootJar/MANIFEST.MF" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/applications/timesheets-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/applications/timesheets-server/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/buildSrc/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
@@ -67,16 +63,13 @@
       <change beforePath="$PROJECT_DIR$/databases/build/libs/databases.jar" beforeDir="false" afterPath="$PROJECT_DIR$/databases/build/libs/databases.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/integration-test/build/libs/integration-test.jar" beforeDir="false" afterPath="$PROJECT_DIR$/integration-test/build/libs/integration-test.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-test/build/reports/tests/test/classes/test.pivotal.pal.tracker.FlowTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-test/build/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-test/build/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-test/build/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-test/build/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-test/build/reports/tests/test/packages/test.pivotal.pal.tracker.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-test/build/test-results/test/TEST-test.pivotal.pal.tracker.FlowTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-test/build/test-results/test/binary/output.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-test/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/integration-test/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/integration-test/build/reports/tests/test/classes/test.pivotal.pal.tracker.FlowTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/integration-test/build/reports/tests/test/classes/test.pivotal.pal.tracker.FlowTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integration-test/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/integration-test/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integration-test/build/reports/tests/test/packages/test.pivotal.pal.tracker.html" beforeDir="false" afterPath="$PROJECT_DIR$/integration-test/build/reports/tests/test/packages/test.pivotal.pal.tracker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integration-test/build/test-results/test/TEST-test.pivotal.pal.tracker.FlowTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/integration-test/build/test-results/test/TEST-test.pivotal.pal.tracker.FlowTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integration-test/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/integration-test/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integration-test/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/integration-test/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/integration-test/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/integration-test/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platform-services/eureka-server/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/platform-services/eureka-server/build.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -219,6 +212,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manifest-allocations.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manifest-backlog.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/manifest-registration.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applications/allocations-server/src/main/java/io/pivotal/pal/tracker/allocations/SecurityConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
@@ -235,15 +255,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applications/registration-server/src/main/java/io/pivotal/pal/tracker/registration/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -278,20 +289,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applications/registration-server/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/rest-support/src/main/java/io/pivotal/pal/tracker/restsupport/RestConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -393,78 +395,6 @@
               <item name="pal-tracker-distributed" type="b2602c69:ProjectViewProjectNode" />
               <item name="pal-tracker-distributed" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="pal-tracker-distributed" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pal-tracker-distributed" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="applications" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="pal-tracker-distributed" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pal-tracker-distributed" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="applications" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="allocations-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="pal-tracker-distributed" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pal-tracker-distributed" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="applications" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="allocations-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pal-tracker-distributed" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pal-tracker-distributed" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="applications" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="allocations-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="pal-tracker-distributed" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pal-tracker-distributed" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="applications" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="allocations-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pal-tracker-distributed" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pal-tracker-distributed" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="applications" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="allocations-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="allocations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pal-tracker-distributed" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pal-tracker-distributed" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="applications" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="allocations-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="pal-tracker-distributed" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pal-tracker-distributed" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="components" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="pal-tracker-distributed" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pal-tracker-distributed" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="components" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="rest-support" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="pal-tracker-distributed" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pal-tracker-distributed" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="components" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="rest-support" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -472,7 +402,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552358835884" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552359594777" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -517,7 +447,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29473683" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29473683" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -534,7 +464,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32962963" />
-      <window_info active="true" anchor="bottom" id="Build" order="10" visible="true" weight="0.32962963" />
+      <window_info anchor="bottom" id="Build" order="10" visible="true" weight="0.32962963" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -567,20 +497,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/platform-services/eureka-server/src/main/resources/Applications.properties" />
     <entry file="file://$PROJECT_DIR$/platform-services/eureka-server/src/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/manifest-backlog.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manifest-registration.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/manifest-timesheets.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -650,13 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-321">
           <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manifest-allocations.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -882,6 +791,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest-allocations.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest-backlog.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest-registration.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>
